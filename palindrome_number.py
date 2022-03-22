@@ -1,3 +1,6 @@
+"""
+60ms. Your runtime beats 90.62 % of python3 submissions. (very good)
+"""
 from collections import deque
 class Solution:
     def isPalindrome(self, x: int) -> bool:

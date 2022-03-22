@@ -1,3 +1,7 @@
+"""
+69 ms.  Your runtime beats 5.67 % of python3 submissions. (Awful!)
+"""
+
 from typing import List
 #import copy
 

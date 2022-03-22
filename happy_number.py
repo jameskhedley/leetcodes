@@ -1,3 +1,7 @@
+"""
+Runtime: 28 ms. Your runtime beats 98.89 % of python3 submissions. (Great!)
+"""
+
 class Solution:
     def isHappy(self, n: int) -> bool:
         seen = set()

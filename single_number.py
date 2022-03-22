@@ -1,3 +1,6 @@
+"""
+Runtime: 197 ms. Your runtime beats 48.32 % of python3 submissions.
+"""
 from typing import List
 
 class Solution:

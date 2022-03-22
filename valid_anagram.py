@@ -1,3 +1,7 @@
+"""
+Runtime: 48 ms. Your runtime beats 89.05 % of python3 submissions. (good!)
+"""
+
 class Solution:
     def isAnagram0(self, s: str, t: str) -> bool:
         d0 = {c: sum([x==c for x in s]) for c in set(s)}

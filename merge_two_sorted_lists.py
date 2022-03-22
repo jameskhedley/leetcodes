@@ -1,3 +1,7 @@
+"""
+71 ms, faster than 15.89% of Python3 online submissions (bad)
+"""
+
 from typing import Optional
 
 class ListNode:

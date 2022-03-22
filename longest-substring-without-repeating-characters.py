@@ -1,3 +1,7 @@
+"""
+Runtime: 1889 ms. (off-the-chart slow, dreadful)
+"""
+
 import timeit
 
 class Solution:

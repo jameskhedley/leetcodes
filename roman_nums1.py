@@ -1,3 +1,7 @@
+"""
+Runtime: 74 ms. Your runtime beats 42.24 % of python3 submissions.
+"""
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         nums = {"X":10,"I":1,"V":5,"L":50,"C":100,"D":500,"M":1000}

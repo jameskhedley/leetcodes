@@ -1,3 +1,7 @@
+"""
+Runtime: 698 ms. Your runtime beats 90.81 % of python3 submissions. (Good!)
+"""
+
 class Solution:
     def longestPalindrome0(self, s: str) -> str:
         if len(s) == 1: return s

@@ -1,3 +1,6 @@
+"""
+Runtime: 116 ms. Your runtime beats 68.24 % of python3 submissions.
+"""
 from typing import List
 board0 = \
 [["5","3",".",".","7",".",".",".","."]
